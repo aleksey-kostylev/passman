@@ -37,4 +37,4 @@ pip install cryptography
 
 ## Метод myrandpass:
 
-В файле myrandpass.py используется встроенный модуль Python под названием ramdon. С его помощью создаются случайные пароли.
+В файле myrandpass.py используется встроенный модуль Python под названием ramdon. С его помощью создаются случайные пароли в формате XXXXX-XXX-XXXXX на основе следюущего набора символов: 1234567890abcdefghigklmnopqrstuvyxwzABCDEFGHIGKLMNOPQRSTUVYXWZ
